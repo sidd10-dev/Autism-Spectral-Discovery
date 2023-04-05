@@ -1,0 +1,9 @@
+2023-04-05 23:08:35,824 - pyswarms.single.global_best - INFO - Optimize for 20 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-04-05 23:08:36,106 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -1.0, best pos: [6.43223704 0.13902745]
+2023-04-05 23:23:41,657 - pyswarms.single.global_best - INFO - Optimize for 20 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-04-05 23:23:46,465 - pyswarms.single.global_best - INFO - Optimize for 20 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-04-05 23:24:01,724 - pyswarms.single.global_best - INFO - Optimize for 20 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-04-05 23:24:13,093 - pyswarms.single.global_best - INFO - Optimize for 20 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-04-05 23:24:13,468 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.98, best pos: [6.83013637]
+2023-04-05 23:57:51,477 - pyswarms.single.global_best - INFO - Optimize for 20 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-04-05 23:57:51,654 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -1.0, best pos: [6.16764349 0.36181872]
